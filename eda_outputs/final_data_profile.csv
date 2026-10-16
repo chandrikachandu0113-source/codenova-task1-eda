@@ -1,0 +1,12 @@
+,dtype,non_null,missing_count,missing_percent,unique_values
+PassengerId,int64,891,0,0.0,891
+Survived,int64,891,0,0.0,2
+Pclass,int64,891,0,0.0,3
+Name,str,891,0,0.0,891
+Sex,str,891,0,0.0,2
+Age,float64,891,0,0.0,89
+SibSp,int64,891,0,0.0,7
+Parch,int64,891,0,0.0,7
+Ticket,str,891,0,0.0,681
+Fare,float64,891,0,0.0,248
+Embarked,str,891,0,0.0,3

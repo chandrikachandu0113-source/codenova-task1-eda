@@ -1,0 +1,5 @@
+feature,Q1,Q3,IQR,lower_fence,upper_fence,potential_outlier_count,potential_outlier_percent
+Age,21.5,36.0,14.5,-0.25,57.75,33,3.7
+Fare,7.9104,31.0,23.0896,-26.724,65.6344,116,13.02
+SibSp,0.0,1.0,1.0,-1.5,2.5,46,5.16
+Parch,0.0,0.0,0.0,0.0,0.0,213,23.91
